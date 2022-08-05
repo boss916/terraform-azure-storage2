@@ -1,0 +1,1 @@
+# terraform-azure-storage2
